@@ -150,3 +150,21 @@
 4. Architectural Patterns and Design Patterns
 
 -----
+
+#### EXPERIENCE
+**Verizon Media**  
+*Software Engineer Intern*   
+_Sunnyvale, CA_   
+Worked with architect to refactor deprecated code to a more scalable design pattern, Banking mobile application, Swift
+
+**Intuit Inc.**  
+_Software Engineer Intern_  
+*Mountain View, CA*  
+Redesigned and developed the process in which the secrets client is bootstrapped onto an AWS instance to eliminate unnecessary dependencies, thereby reducing timeout errors, Java
+
+**ZEFR Inc.**  
+*Software Engineer Intern*   
+_Venice, CA_  
+AWS Redshift SQL, Domo Data Visualisation, Analysing Billions of rows of Youtube data, Python
+
+---
