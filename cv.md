@@ -168,3 +168,23 @@ _Venice, CA_
 AWS Redshift SQL, Domo Data Visualisation, Analysing Billions of rows of Youtube data, Python
 
 ---
+
+#### EDUCATION
+__University of California, Berkeley - UC EECS__  
+_Bachelor of Science - Electrical Engineering and Computer Sciences_
+
+**North-Eastern Federal University of Yakutsk**  
+*Bachelor of Science - Electrical Engineering and Automation in Mining*
+
+---
+
+#### FOREIGN LANGUAGES
+
+Language | Level of proficiency
+---------|---------------------
+Russian | Advanced
+English | Upper - Intermediate
+French | Niveau seuil (Intermediate)
+Hebrew | Gimel  (Upper Intermediate)
+
+-----
