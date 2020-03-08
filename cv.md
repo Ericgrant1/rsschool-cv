@@ -19,6 +19,7 @@
 3. Swift - average
 4. SQL - basic
 5. C/C++ - basic
+
 -----
 
 **IDEs:**
@@ -28,6 +29,7 @@
 4. Atom
 5. IntelliJ IDEA
 6. Android Studio
+
 ----
 
 **Software development kits:**
@@ -41,12 +43,14 @@
 **Machine learning:**
 1. TensorFlow
 2. PyTorch
+
 ----
 
 **UI/UX:**
 - Sketch
 - Adobe XD
 - Adobe PS
+
 ---
 
 **Databases:**
@@ -56,22 +60,26 @@
 4. JDBC
 5. Realm
 6. FCM
+
 ---
 
 **Cloud Services:**
 - Amazon Web Services: EC2, Beanstalk, S3, Lambda.
 - Microsoft Azure Management Services: ARM.
+
 -----
 
 **Object-relational Mappers:**
 - Hibernate
 - Django
+
 ----
 
 **Build Tools:**
 - Maven
 - Gradle
 - Jenkins
+
 ----
 
 **Web Technologies:**
@@ -80,12 +88,14 @@
 3. HTML5
 4. CSS3
 5. RESTful
+
 ----
 
 **Data formats:**
 - JSON
 - XML
 - CSV
+
 ---
 
 **Networking:**
@@ -106,26 +116,31 @@
 1. JUnit
 2. PyUnit
 3. Selenium
+
 ----
 
 **Data visualisation and Dashboards:**
 - Tableau
 - MS Power BI
+
 ----
 
 **Computer aided design:**
 - AutoCAD
 - Revit
+
 ----
 
 **ERP:**
 - SAP CRM
 - ORACLE NetSuite CRM
+
 ----
 
 **ECM:**
 - DocsVision
 - Confluence
+
 ----
 
 **Other Technical Skills:**
@@ -133,4 +148,5 @@
 2. Version Control - Git
 3. Software development life cycle
 4. Architectural Patterns and Design Patterns
+
 -----
